@@ -1,3 +1,4 @@
 hello my name is Aditya
 cricket
 badminton
+git status cmd check
